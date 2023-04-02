@@ -1,0 +1,17 @@
+---
+:id: 154485240
+:submitters:
+- :name: Mengwei Yuan
+  :email: mengwei@usc.edu
+- :name: Moyu Li
+  :email: moyuli@usc.edu
+- :name: Yanbo Li
+  :email: yanbol@usc.edu
+- :name: Dong Yan
+  :email: dyan2761@usc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-15 04:05:08.106520000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-14 20:05:08.106520000 Z
+:status: processed
